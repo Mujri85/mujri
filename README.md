@@ -1,2 +1,1 @@
-# mujri
-yes
+mujri85
